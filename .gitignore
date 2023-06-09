@@ -1,7 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
-# decided not to hide this so i can see if netlify will deploy my app this time due to routing issues /dist
+/dist
 /tmp
 /out-tsc
 /bazel-out
